@@ -7,3 +7,6 @@ We try to solve the problem by creating a series of raspberry pi nodes situated 
 It can be implemented at various places like tunnels, sewers, floods, mountains etc.
 
 this is very flexible and opensource. this is the advanntage as you can build this from off the shelf components.
+
+We are all ears if you have any idea about any new usecase and what modifications it would require.
+
